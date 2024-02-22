@@ -6,16 +6,10 @@
 I am a student at The University of Edinburgh currently studying BSc (Hons) Computer Science. My main interests are Software Development and Cloud Engineering. 
 Check out how to get in touch, my skills, and some of my favourite projects below.
 
-
-{::comment}
-Check out my [portfolio](https://DugaldMacintyre.github.io) and [CV](https://github.com/DugaldMacintyre/cv) to learn more about me and my projects.
-{:/comment}
 Check out my [CV](https://github.com/MattDavies-code/CV) to learn more about what I can add to the team.
 
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=MattDavies-code&repo=CV)](https://github.com/MattDavies-code/CV)
 &nbsp; &nbsp;
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=DugaldMacintyre&repo=DugaldMacintyre.github.io)](https://github.com/DugaldMacintyre/DugaldMacintyre.github.io)
-
 
 ## 📇 Social & Contact
 

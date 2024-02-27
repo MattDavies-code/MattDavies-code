@@ -43,11 +43,11 @@ Check out my [CV](https://github.com/MattDavies-code/CV) to learn more about wha
 <div align="left">
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img alt="git" src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/git.svg" width=40 height=40/> </a>
   &nbsp; &nbsp;
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img alt="tensorflow" src="/images/Tensorflow_logo.svg.png" height=40/> </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img alt="tensorflow" src="/Tensorflow_logo.svg.png" height=40/> </a>
   &nbsp; &nbsp;
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img alt="pandas" src="/images/Pandas_logo.svg.png" height=40/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img alt="pandas" src="/Pandas_logo.svg.png" height=40/> </a>
   &nbsp; &nbsp;
-  <a href="https://geojson.org/" target="_blank" rel="noreferrer"> <img alt="geojson" src="/images/geojson-logo.png" height=40/> </a>
+  <a href="https://geojson.org/" target="_blank" rel="noreferrer"> <img alt="geojson" src="/geojson-logo.png" height=40/> </a>
   &nbsp; &nbsp;
 </div>
 

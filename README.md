@@ -53,8 +53,8 @@ Check out my [CV](https://github.com/MattDavies-code/CV) to learn more about wha
 
 ## 📚 Repositories
 
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=MattDavies-code&repo=Autonomous-drone-delivery)](https://github.com/MattDavies-code/Autonomous-drone-delivery)
+[![Pinned Repository](https://github.com/MattDavies-code/Autonomous-drone-delivery)
 &nbsp; &nbsp;
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=MattDavies-code&repo=Trends-In-Movies-Using-IMDb)](https://github.com/MattDavies-code/Trends-In-Movies-Using-IMDb)
+[![Pinned Repository](https://github.com/MattDavies-code/Trends-In-Movies-Using-IMDb)
 &nbsp; &nbsp;
 

@@ -47,6 +47,8 @@ Check out my [CV](https://github.com/MattDavies-code/CV) to learn more about wha
   &nbsp; &nbsp;
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img alt="pandas" src="/images/Pandas_logo.svg.png" height=40/> </a>
   &nbsp; &nbsp;
+  <a href="https://geojson.org/" target="_blank" rel="noreferrer"> <img alt="geojson" src="/images/geojson-logo.png" height=40/> </a>
+  &nbsp; &nbsp;
 </div>
 
 ## 📚 Repositories

@@ -51,10 +51,4 @@ Check out my [CV](https://github.com/MattDavies-code/CV) to learn more about wha
   &nbsp; &nbsp;
 </div>
 
-## 📚 Repositories
-
-[![Pinned Repository](https://github.com/MattDavies-code/Autonomous-drone-delivery)
-&nbsp; &nbsp;
-[![Pinned Repository](https://github.com/MattDavies-code/Trends-In-Movies-Using-IMDb)
-&nbsp; &nbsp;
 

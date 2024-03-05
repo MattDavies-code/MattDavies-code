@@ -19,7 +19,7 @@ Check out my [CV](https://github.com/MattDavies-code/CV) and my [Portfolio Websi
 <div align="left">
   <a href="mailto:davies.heddwyn.matthew@gmail.com" target="_blank" rel="noreferrer"> <img alt="Matthew Davies' E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
   &nbsp;
-  <a href="[https://www.linkedin.com/in/dugaldmacintyre](https://www.linkedin.com/in/matthew-davies-a0931a19b/)" target="_blank" rel="noreferrer"> <img alt="Matthew Davies' LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  <a href="[https://www.linkedin.com/in/matthewdavies](https://www.linkedin.com/in/matthew-davies-a0931a19b/)" target="_blank" rel="noreferrer"> <img alt="Matthew Davies' LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   &nbsp;
   <a href="https://github.com/MattDavies-code" target="_blank" rel="noreferrer"> <img alt="Matthew Davies' GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
   &nbsp;

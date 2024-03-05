@@ -36,11 +36,11 @@ Check out my [CV](https://github.com/MattDavies-code/CV) to learn more about wha
   &nbsp; &nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> 
   &nbsp; &nbsp;
-  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer">  <img src="/html_logo.svg.png"" alt="html" width="40" height="40" /> 
+  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer">  <img src="/html_logo.svg.png" alt="html" width="40" height="40" /> 
   &nbsp; &nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="css" width="40" height="40" /> 
+  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"> <img src="/css_logo.svg.png" alt="css" width="40" height="40" /> 
   &nbsp; &nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="javascript" width="40" height="40" /> 
+  <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"> <img src="/js_logo.svg.png" alt="javascript" width="40" height="40" /> 
   </a>
 </div>
 

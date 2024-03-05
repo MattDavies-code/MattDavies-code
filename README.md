@@ -34,7 +34,14 @@ Check out my [CV](https://github.com/MattDavies-code/CV) to learn more about wha
   &nbsp; &nbsp;
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> 
+  &nbsp; &nbsp;
+  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer">  <img src="/html_logo.svg.png"" alt="html" width="40" height="40" /> 
+  &nbsp; &nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="css" width="40" height="40" /> 
+  &nbsp; &nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="javascript" width="40" height="40" /> 
+  </a>
 </div>
 
 

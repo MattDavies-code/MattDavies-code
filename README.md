@@ -10,8 +10,7 @@ Check out my [CV](https://github.com/MattDavies-code/CV) and my [Portfolio Websi
 
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=MattDavies-code&repo=CV)](https://github.com/MattDavies-code/CV)
 &nbsp; &nbsp;
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=MattDavies-code&repo=MattDavies-code.github.io)](https://github.com/MattDavies-code/MattDavies-code.github.io)
-&nbsp; &nbsp;
+
 
 
 ## 📇 Social & Contact
